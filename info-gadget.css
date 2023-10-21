@@ -1,0 +1,22 @@
+/* container */
+.container{
+    margin-bottom: 20px;
+}
+
+/* navbar section */
+.text-gray a {
+    font-weight: bold;
+    margin-left: 20px;
+}
+/* carousel section */
+.main-carousle {
+    background-color: blue;
+    border-radius: 10px;
+    background-image: url(all-images/bg-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+}
+.col-md-6 {
+    padding: 30px;
+}
